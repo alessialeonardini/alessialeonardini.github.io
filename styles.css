@@ -6,6 +6,9 @@ body {
     color: green;
     text-align: center;
     }
+    h2 {
+    color: goldenrod;
+    }
     .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
 .project {
 width: 30%;
